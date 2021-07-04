@@ -3,11 +3,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexcosta97&label=Profile%20views&color=0e75b6&style=flat" alt="alexcosta97" /> </p>
 
-- 🌱 I’m currently learning **about Penetration Testing and how to better secure applications**
+🔭 I'm currently working on:
 
-- 📫 You can reach me at: **alex@alexcosta.dev**
+- A script to automate the setup of a new laptop (down to OS settings) - will make it public soon
+- An error handler for [express] - still early stages
 
-- ⚡ Fun fact: **I have a Spotify [playlist] with nearly 10K likes**
+🌱 I’m currently learning about Penetration Testing and how to better secure applications
+
+📫 You can reach me at: alex@alexcosta.dev
+
+⚡ Fun fact: I have a Spotify [playlist] with nearly 10K likes
 
 ### Blogs posts
 
@@ -51,3 +56,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alexcosta97&show_icons=true&locale=en" alt="alexcosta97" /></p>
 
 [playlist]:https://open.spotify.com/playlist/2ZJK3YXjCfQe77lSs9FwNP?si=d3814795864b4823
+[express]:https://github.com/expressjs/express
