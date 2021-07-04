@@ -17,6 +17,9 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Get Out of a Rut — And Not Get Back Into It](https://alexandrepcosta.medium.com/how-to-get-out-of-a-rut-17b8eb8c8698?source=rss-b58b38f0034d------2)
+- [Grocery Shopping during Covid-19](https://alexandrepcosta.medium.com/grocery-shopping-during-covid-19-35f483f94457?source=rss-b58b38f0034d------2)
+- [5 Lessons to Take From ‘Think And Grow Rich’](https://medium.com/swlh/5-lessons-to-take-from-think-and-grow-rich-29e59af50d04?source=rss-b58b38f0034d------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
