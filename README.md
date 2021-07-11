@@ -12,7 +12,7 @@
 
 📫 You can reach me at: alex@alexcosta.dev
 
-⚡ Fun fact: I have a Spotify [playlist] with nearly 10K likes
+⚡ Fun fact: I have a Spotify [playlist] with over 10K likes
 
 ### Blogs posts
 
