@@ -34,19 +34,6 @@
 
 <!-- BLOG-POST-LIST:END -->
 
-<!-- <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/alexcosta9716" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alexcosta9716" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/alex-costa-045065134" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alex-costa-045065134" height="30" width="40" /></a>
-<a href="https://instagram.com/coding_barista" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="coding_barista" height="30" width="40" /></a>
-<a href="https://medium.com/@alexandrepcosta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@alexandrepcosta" height="30" width="40" /></a>
-<a href="https://discord.gg/c0axial#5551" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="c0axial#5551" height="30" width="40" /></a>
-<a href="https://open.spotify.com/user/paulo.costa.a.s?si=4bf6a02260944cca">
-  <img align="center" alt="Alex's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-</a>
-</p>
- -->
-
 [playlist]:https://open.spotify.com/playlist/2ZJK3YXjCfQe77lSs9FwNP?si=d3814795864b4823
 [express]:https://github.com/expressjs/express
 [nodejs-http-errors]:https://github.com/alexcosta97/nodejs-http-errors
