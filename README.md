@@ -7,11 +7,11 @@
 
 - A script to automate the setup of a new laptop (down to OS settings) - will make it public soon ![bash]
 - [nodejs-http-errors], a Node.js package containing HTTP Errors ready to throw ![javascript]
-- An error handler for [express] - still early stages ![javascript]
+- [danger-plugin-pr-utilities], a plugin for [Danger JS], containing utilities to validate PRs - just started work on it and planning the project ![typescript]
 
 🌱 I’m currently learning about Penetration Testing and how to better secure applications
 
-:video_game: I'm a hobbyist speedrunner and can sometimes be found on [Twitch]
+:video_game: I like to speedrun video games and can sometimes be found on [Twitch]
 
 📫 Email: [alex@alexcosta.dev](mailto:alex@alexcosta.dev)
 
@@ -50,7 +50,9 @@
 [playlist]:https://open.spotify.com/playlist/2ZJK3YXjCfQe77lSs9FwNP?si=d3814795864b4823
 [express]:https://github.com/expressjs/express
 [nodejs-http-errors]:https://github.com/alexcosta97/nodejs-http-errors
+[danger-plugin-pr-utilities]:https://github.com/alexcosta97/danger-plugin-pr-utilities
 [Twitch]:https://twitch.tv/c0axial97
+[Danger JS]: https://danger.systems/js
 
 <!-- Logos here -->
 [bash]:https://img.shields.io/badge/Shell-161b22?style=flat&logo=gnubash&logoColor=4eaa25
