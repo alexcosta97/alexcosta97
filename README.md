@@ -31,6 +31,8 @@
 ![](https://raw.githubusercontent.com/alexcosta97/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/alexcosta97/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
+<img align="center" src="/github-metrics.svg" alt="Metrics" />
+
 
 <!-- BLOG-POST-LIST:END -->
 
