@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alex</h1>
-<h3 align="center">I'm a Co-Founder & Software Engineer at a stealth mode start-up 🤫</h3>
-<h4 align="center">I also speedrun video games in my spare time</h4>
+<h3 align="center">I'm a Software Engineer with a focus on back-end development using Node.js</h3>
+<h4 align="center">I can also develop front-end (Angular/React) or mobile applications (iOS)</h4><br/>
 
 
 🔭 I'm currently working on:
