@@ -51,7 +51,7 @@
   "explorer.fileNesting.patterns": {
     ".eslintrc.cjs": ".eslintignore",
     ".yarnrc.yml": ".pnp.cjs, .pnp.loader.mjs",
-    "prettierrc.cjs": ".prettierignore",
+    ".prettierrc.cjs": ".prettierignore",
     "*.less": "${capture}.less.d.ts",
     "*.tsx": "${capture}.cy.tsx"
   },
