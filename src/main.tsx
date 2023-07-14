@@ -17,7 +17,7 @@ import {
   useNavigationType
 } from 'react-router-dom';
 
-import { AppWithProfiler } from '~/app';
+import { AppWithProfiler } from '~/App';
 import { IS_PROD, MODE, SENTRY_DSN } from '~/constants';
 
 const root = createRoot(document.querySelector('#root') as HTMLElement);
