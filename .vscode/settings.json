@@ -31,7 +31,7 @@
   },
   "diffEditor.ignoreTrimWhitespace": false,
   "javascript.updateImportsOnFileMove.enabled": "always",
-  "workbench.editor.showTabs": true,
+  "workbench.editor.showTabs": "multiple",
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   "editor.suggestSelection": "first",
   "files.exclude": {
