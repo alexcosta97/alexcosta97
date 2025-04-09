@@ -1709,7 +1709,7 @@
         
           <small>
             
-              estimation from 610kb of code in 676 edited files across 213 commits over last 29 days
+              estimation from 649kb of code in 705 edited files across 218 commits over last 29 days
             
           </small>
         
@@ -1720,13 +1720,13 @@
             </mask>
             <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
             
-              <rect mask="url(#languages-bar)" x="0" y="0" width="241.22082550542038" height="8" fill="#3178c6"/>
+              <rect mask="url(#languages-bar)" x="0" y="0" width="229.96168834999634" height="8" fill="#3178c6"/>
             
-              <rect mask="url(#languages-bar)" x="241.22082550542038" y="0" width="203.5047896185912" height="8" fill="#3178c6"/>
+              <rect mask="url(#languages-bar)" x="229.96168834999634" y="0" width="216.32593358619945" height="8" fill="#3178c6"/>
             
-              <rect mask="url(#languages-bar)" x="444.72561512401154" y="0" width="15.199623873215865" height="8" fill="#f1e05a"/>
+              <rect mask="url(#languages-bar)" x="446.2876219361958" y="0" width="13.645332676297791" height="8" fill="#f1e05a"/>
             
-              <rect mask="url(#languages-bar)" x="459.92523899722744" y="0" width="0.07476100277258066" height="8" fill="#701516"/>
+              <rect mask="url(#languages-bar)" x="459.93295461249363" y="0" width="0.0670453875063766" height="8" fill="#701516"/>
             
           </svg>
         
@@ -1735,12 +1735,12 @@
             
               <div class="field center no-wrap language">
                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#3178c6" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
-                TSX
+                TypeScript
               </div>
             
               <div class="field center no-wrap language">
                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#3178c6" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
-                TypeScript
+                TSX
               </div>
             
               <div class="field center no-wrap language">
