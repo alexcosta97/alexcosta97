@@ -1709,7 +1709,7 @@
         
           <small>
             
-              estimation from 723kb of code in 626 edited files across 144 commits over last 30 days
+              estimation from 681kb of code in 595 edited files across 118 commits over last 29 days
             
           </small>
         
@@ -1720,13 +1720,13 @@
             </mask>
             <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
             
-              <rect mask="url(#languages-bar)" x="0" y="0" width="268.32771527895835" height="8" fill="#3178c6"/>
+              <rect mask="url(#languages-bar)" x="0" y="0" width="265.2549384294671" height="8" fill="#3178c6"/>
             
-              <rect mask="url(#languages-bar)" x="268.32771527895835" y="0" width="105.20301205878732" height="8" fill="#f1e05a"/>
+              <rect mask="url(#languages-bar)" x="265.2549384294671" y="0" width="111.24429048582212" height="8" fill="#f1e05a"/>
             
-              <rect mask="url(#languages-bar)" x="373.5307273377457" y="0" width="86.4126426741548" height="8" fill="#3178c6"/>
+              <rect mask="url(#languages-bar)" x="376.49922891528917" y="0" width="83.44088221390433" height="8" fill="#3178c6"/>
             
-              <rect mask="url(#languages-bar)" x="459.94337001190047" y="0" width="0.05662998809949525" height="8" fill="#701516"/>
+              <rect mask="url(#languages-bar)" x="459.94011112919355" y="0" width="0.05988887080650036" height="8" fill="#701516"/>
             
           </svg>
         
