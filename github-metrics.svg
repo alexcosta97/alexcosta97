@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="172" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="189" class="">
 
   <defs><style/></defs>
   <style data-optimizable="true">/* SVG global context */
@@ -1709,7 +1709,7 @@
         
           <small>
             
-              estimation from 554kb of code in 429 edited files across 120 commits over last 30 days
+              estimation from 853kb of code in 669 edited files across 148 commits over last 22 days
             
           </small>
         
@@ -1720,13 +1720,15 @@
             </mask>
             <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
             
-              <rect mask="url(#languages-bar)" x="0" y="0" width="261.77436529731546" height="8" fill="#3178c6"/>
+              <rect mask="url(#languages-bar)" x="0" y="0" width="305.6248022375589" height="8" fill="#3178c6"/>
             
-              <rect mask="url(#languages-bar)" x="261.77436529731546" y="0" width="189.71809673261222" height="8" fill="#f1e05a"/>
+              <rect mask="url(#languages-bar)" x="305.6248022375589" y="0" width="140.75750162975314" height="8" fill="#f1e05a"/>
             
-              <rect mask="url(#languages-bar)" x="451.49246202992765" y="0" width="8.358189341130588" height="8" fill="#3178c6"/>
+              <rect mask="url(#languages-bar)" x="446.38230386731203" y="0" width="8.023544690817088" height="8" fill="#724b3b"/>
             
-              <rect mask="url(#languages-bar)" x="459.85065137105823" y="0" width="0.14934862894170806" height="8" fill="#701516"/>
+              <rect mask="url(#languages-bar)" x="454.4058485581291" y="0" width="5.495946902452444" height="8" fill="#3178c6"/>
+            
+              <rect mask="url(#languages-bar)" x="459.9017954605815" y="0" width="0.09820453941842275" height="8" fill="#701516"/>
             
           </svg>
         
@@ -1741,6 +1743,11 @@
               <div class="field center no-wrap language">
                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#f1e05a" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
                 JavaScript
+              </div>
+            
+              <div class="field center no-wrap language">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#724b3b" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
+                Mustache
               </div>
             
               <div class="field center no-wrap language">
