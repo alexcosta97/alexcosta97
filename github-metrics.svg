@@ -1709,7 +1709,7 @@
         
           <small>
             
-              estimation from 1.51mb of code in 1451 edited files across 246 commits over last 17 days
+              estimation from 1.42mb of code in 1405 edited files across 233 commits over last 17 days
             
           </small>
         
@@ -1720,21 +1720,21 @@
             </mask>
             <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
             
-              <rect mask="url(#languages-bar)" x="0" y="0" width="315.0797807358797" height="8" fill="#3178c6"/>
+              <rect mask="url(#languages-bar)" x="0" y="0" width="318.3544721627623" height="8" fill="#3178c6"/>
             
-              <rect mask="url(#languages-bar)" x="315.0797807358797" y="0" width="100.98716734555927" height="8" fill="#f1e05a"/>
+              <rect mask="url(#languages-bar)" x="318.3544721627623" y="0" width="102.47127110191508" height="8" fill="#f1e05a"/>
             
-              <rect mask="url(#languages-bar)" x="416.06694808143897" y="0" width="23.156361229540806" height="8" fill="#3178c6"/>
+              <rect mask="url(#languages-bar)" x="420.8257432646774" y="0" width="23.496666276088924" height="8" fill="#3178c6"/>
             
-              <rect mask="url(#languages-bar)" x="439.22330931097974" y="0" width="10.125664956819614" height="8" fill="#384d54"/>
+              <rect mask="url(#languages-bar)" x="444.32240954076633" y="0" width="10.274471362554264" height="8" fill="#384d54"/>
             
-              <rect mask="url(#languages-bar)" x="449.34897426779935" y="0" width="6.673247876186888" height="8" fill="#844FBA"/>
+              <rect mask="url(#languages-bar)" x="454.5968809033206" y="0" width="3.6510492728109307" height="8" fill="#724b3b"/>
             
-              <rect mask="url(#languages-bar)" x="456.02222214398626" y="0" width="3.5981706866262266" height="8" fill="#724b3b"/>
+              <rect mask="url(#languages-bar)" x="458.2479301761315" y="0" width="1.4247275720258696" height="8" fill="#844FBA"/>
             
-              <rect mask="url(#languages-bar)" x="459.6203928306125" y="0" width="0.2953939748134952" height="8" fill="#89e051"/>
+              <rect mask="url(#languages-bar)" x="459.67265774815735" y="0" width="0.2997350739763767" height="8" fill="#89e051"/>
             
-              <rect mask="url(#languages-bar)" x="459.91578680542597" y="0" width="0.08421319457402276" height="8" fill="#427819"/>
+              <rect mask="url(#languages-bar)" x="459.9723928221337" y="0" width="0.02760717786624522" height="8" fill="#701516"/>
             
           </svg>
         
@@ -1762,13 +1762,13 @@
               </div>
             
               <div class="field center no-wrap language">
-                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#844FBA" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
-                HCL
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#724b3b" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
+                Mustache
               </div>
             
               <div class="field center no-wrap language">
-                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#724b3b" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
-                Mustache
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#844FBA" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
+                HCL
               </div>
             
               <div class="field center no-wrap language">
@@ -1777,8 +1777,8 @@
               </div>
             
               <div class="field center no-wrap language">
-                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#427819" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
-                Makefile
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#701516" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
+                Ruby
               </div>
             
           </div>
