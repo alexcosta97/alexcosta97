@@ -1709,7 +1709,7 @@
         
           <small>
             
-              estimation from 1.20mb of code in 1094 edited files across 236 commits over last 14 days
+              estimation from 1.11mb of code in 1045 edited files across 257 commits over last 8 days
             
           </small>
         
@@ -1720,17 +1720,15 @@
             </mask>
             <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
             
-              <rect mask="url(#languages-bar)" x="0" y="0" width="287.9152373254843" height="8" fill="#3178c6"/>
+              <rect mask="url(#languages-bar)" x="0" y="0" width="248.0331351304162" height="8" fill="#3178c6"/>
             
-              <rect mask="url(#languages-bar)" x="287.9152373254843" y="0" width="136.21600844572805" height="8" fill="#f1e05a"/>
+              <rect mask="url(#languages-bar)" x="248.0331351304162" y="0" width="170.5118485251181" height="8" fill="#f1e05a"/>
             
-              <rect mask="url(#languages-bar)" x="424.1312457712124" y="0" width="28.860432238038946" height="8" fill="#3178c6"/>
+              <rect mask="url(#languages-bar)" x="418.5449836555343" y="0" width="31.451233352409957" height="8" fill="#3178c6"/>
             
-              <rect mask="url(#languages-bar)" x="452.9916780092513" y="0" width="4.631039103615498" height="8" fill="#724b3b"/>
+              <rect mask="url(#languages-bar)" x="449.99621700794427" y="0" width="5.118795650529133" height="8" fill="#724b3b"/>
             
-              <rect mask="url(#languages-bar)" x="457.62271711286684" y="0" width="2.343373604993721" height="8" fill="#844FBA"/>
-            
-              <rect mask="url(#languages-bar)" x="459.96609071786054" y="0" width="0.033909282139444025" height="8" fill="#701516"/>
+              <rect mask="url(#languages-bar)" x="455.11501265847335" y="0" width="4.884987341526583" height="8" fill="#844FBA"/>
             
           </svg>
         
@@ -1760,11 +1758,6 @@
               <div class="field center no-wrap language">
                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#844FBA" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
                 HCL
-              </div>
-            
-              <div class="field center no-wrap language">
-                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#701516" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
-                Ruby
               </div>
             
           </div>
