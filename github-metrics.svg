@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="189" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="172" class="">
 
   <defs><style/></defs>
   <style data-optimizable="true">/* SVG global context */
@@ -1709,7 +1709,7 @@
         
           <small>
             
-              estimation from 1.11mb of code in 1045 edited files across 257 commits over last 8 days
+              estimation from 573kb of code in 488 edited files across 202 commits over last 7 days
             
           </small>
         
@@ -1720,15 +1720,13 @@
             </mask>
             <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
             
-              <rect mask="url(#languages-bar)" x="0" y="0" width="248.0331351304162" height="8" fill="#3178c6"/>
+              <rect mask="url(#languages-bar)" x="0" y="0" width="357.8792323058639" height="8" fill="#3178c6"/>
             
-              <rect mask="url(#languages-bar)" x="248.0331351304162" y="0" width="170.5118485251181" height="8" fill="#f1e05a"/>
+              <rect mask="url(#languages-bar)" x="357.8792323058639" y="0" width="90.80503367301355" height="8" fill="#f1e05a"/>
             
-              <rect mask="url(#languages-bar)" x="418.5449836555343" y="0" width="31.451233352409957" height="8" fill="#3178c6"/>
+              <rect mask="url(#languages-bar)" x="448.6842659788775" y="0" width="10.612014396372249" height="8" fill="#844FBA"/>
             
-              <rect mask="url(#languages-bar)" x="449.99621700794427" y="0" width="5.118795650529133" height="8" fill="#724b3b"/>
-            
-              <rect mask="url(#languages-bar)" x="455.11501265847335" y="0" width="4.884987341526583" height="8" fill="#844FBA"/>
+              <rect mask="url(#languages-bar)" x="459.29628037524975" y="0" width="0.7037196247502971" height="8" fill="#724b3b"/>
             
           </svg>
         
@@ -1746,18 +1744,13 @@
               </div>
             
               <div class="field center no-wrap language">
-                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#3178c6" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
-                TSX
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#844FBA" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
+                HCL
               </div>
             
               <div class="field center no-wrap language">
                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#724b3b" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
                 Mustache
-              </div>
-            
-              <div class="field center no-wrap language">
-                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#844FBA" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
-                HCL
               </div>
             
           </div>
