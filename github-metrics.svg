@@ -1709,7 +1709,7 @@
         
           <small>
             
-              estimation from 814kb of code in 634 edited files across 259 commits over last 10 days
+              estimation from 762kb of code in 677 edited files across 247 commits over last 10 days
             
           </small>
         
@@ -1720,21 +1720,19 @@
             </mask>
             <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
             
-              <rect mask="url(#languages-bar)" x="0" y="0" width="274.32218495208275" height="8" fill="#3178c6"/>
+              <rect mask="url(#languages-bar)" x="0" y="0" width="241.81692374544355" height="8" fill="#3178c6"/>
             
-              <rect mask="url(#languages-bar)" x="274.32218495208275" y="0" width="125.39404312449317" height="8" fill="#f1e05a"/>
+              <rect mask="url(#languages-bar)" x="241.81692374544355" y="0" width="140.481534888999" height="8" fill="#f1e05a"/>
             
-              <rect mask="url(#languages-bar)" x="399.7162280765759" y="0" width="28.410464454502055" height="8" fill="#000080"/>
+              <rect mask="url(#languages-bar)" x="382.2984586344425" y="0" width="37.71892289850901" height="8" fill="#000080"/>
             
-              <rect mask="url(#languages-bar)" x="428.12669253107794" y="0" width="23.31641236571805" height="8" fill="#89e051"/>
+              <rect mask="url(#languages-bar)" x="420.01738153295156" y="0" width="30.95584592433498" height="8" fill="#89e051"/>
             
-              <rect mask="url(#languages-bar)" x="451.443104896796" y="0" width="7.654503722265423" height="8" fill="#844FBA"/>
+              <rect mask="url(#languages-bar)" x="450.9732274572865" y="0" width="8.290880507496478" height="8" fill="#844FBA"/>
             
-              <rect mask="url(#languages-bar)" x="459.0976086190614" y="0" width="0.5082544440993078" height="8" fill="#3572A5"/>
+              <rect mask="url(#languages-bar)" x="459.264107964783" y="0" width="0.6747798938840807" height="8" fill="#3572A5"/>
             
-              <rect mask="url(#languages-bar)" x="459.6058630631607" y="0" width="0.3481063456755636" height="8" fill="#724b3b"/>
-            
-              <rect mask="url(#languages-bar)" x="459.9539694088363" y="0" width="0.04603059116371088" height="8" fill="#384d54"/>
+              <rect mask="url(#languages-bar)" x="459.93888785866704" y="0" width="0.06111214133289788" height="8" fill="#384d54"/>
             
           </svg>
         
@@ -1769,11 +1767,6 @@
               <div class="field center no-wrap language">
                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#3572A5" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
                 Python
-              </div>
-            
-              <div class="field center no-wrap language">
-                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#724b3b" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
-                Mustache
               </div>
             
               <div class="field center no-wrap language">
