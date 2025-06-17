@@ -1709,7 +1709,7 @@
         
           <small>
             
-              estimation from 1.11mb of code in 1145 edited files across 241 commits over last 24 days
+              estimation from 1.02mb of code in 965 edited files across 212 commits over last 24 days
             
           </small>
         
@@ -1720,19 +1720,19 @@
             </mask>
             <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
             
-              <rect mask="url(#languages-bar)" x="0" y="0" width="289.84639972819633" height="8" fill="#3178c6"/>
+              <rect mask="url(#languages-bar)" x="0" y="0" width="233.91138838955268" height="8" fill="#3178c6"/>
             
-              <rect mask="url(#languages-bar)" x="289.84639972819633" y="0" width="146.95373617363538" height="8" fill="#3572A5"/>
+              <rect mask="url(#languages-bar)" x="233.91138838955268" y="0" width="202.60970709527334" height="8" fill="#3572A5"/>
             
-              <rect mask="url(#languages-bar)" x="436.80013590183165" y="0" width="10.262321737185964" height="8" fill="#724b3b"/>
+              <rect mask="url(#languages-bar)" x="436.52109548482605" y="0" width="12.322089457544676" height="8" fill="#3178c6"/>
             
-              <rect mask="url(#languages-bar)" x="447.0624576390176" y="0" width="9.291906387212748" height="8" fill="#3178c6"/>
+              <rect mask="url(#languages-bar)" x="448.8431849423707" y="0" width="7.543618483662896" height="8" fill="#724b3b"/>
             
-              <rect mask="url(#languages-bar)" x="456.35436402623037" y="0" width="1.9392359335537113" height="8" fill="#f1e05a"/>
+              <rect mask="url(#languages-bar)" x="456.3868034260336" y="0" width="1.8187585915195092" height="8" fill="#384d54"/>
             
-              <rect mask="url(#languages-bar)" x="458.2935999597841" y="0" width="1.3714990977435788" height="8" fill="#384d54"/>
+              <rect mask="url(#languages-bar)" x="458.2055620175531" y="0" width="1.350322512424659" height="8" fill="#f1e05a"/>
             
-              <rect mask="url(#languages-bar)" x="459.6650990575277" y="0" width="0.33490094247226926" height="8" fill="#701516"/>
+              <rect mask="url(#languages-bar)" x="459.5558845299778" y="0" width="0.4441154700222058" height="8" fill="#701516"/>
             
           </svg>
         
@@ -1750,23 +1750,23 @@
               </div>
             
               <div class="field center no-wrap language">
-                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#724b3b" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
-                Mustache
-              </div>
-            
-              <div class="field center no-wrap language">
                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#3178c6" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
                 TSX
               </div>
             
               <div class="field center no-wrap language">
-                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#f1e05a" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
-                JavaScript
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#724b3b" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
+                Mustache
               </div>
             
               <div class="field center no-wrap language">
                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#384d54" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
                 Dockerfile
+              </div>
+            
+              <div class="field center no-wrap language">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#f1e05a" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
+                JavaScript
               </div>
             
               <div class="field center no-wrap language">
