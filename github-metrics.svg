@@ -1709,7 +1709,7 @@
         
           <small>
             
-              estimation from 1.03mb of code in 810 edited files across 212 commits over last 30 days
+              estimation from 903kb of code in 590 edited files across 200 commits over last 30 days
             
           </small>
         
@@ -1720,17 +1720,17 @@
             </mask>
             <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
             
-              <rect mask="url(#languages-bar)" x="0" y="0" width="268.93570921093857" height="8" fill="#3572A5"/>
+              <rect mask="url(#languages-bar)" x="0" y="0" width="340.9328358208955" height="8" fill="#3572A5"/>
             
-              <rect mask="url(#languages-bar)" x="268.93570921093857" y="0" width="170.35514604321943" height="8" fill="#3178c6"/>
+              <rect mask="url(#languages-bar)" x="340.9328358208955" y="0" width="92.88600102933609" height="8" fill="#3178c6"/>
             
-              <rect mask="url(#languages-bar)" x="439.29085525415803" y="0" width="11.827272285987883" height="8" fill="#3178c6"/>
+              <rect mask="url(#languages-bar)" x="433.81883685023155" y="0" width="14.993566649511065" height="8" fill="#3178c6"/>
             
-              <rect mask="url(#languages-bar)" x="451.1181275401459" y="0" width="7.187912325527004" height="8" fill="#724b3b"/>
+              <rect mask="url(#languages-bar)" x="448.81240349974263" y="0" width="9.11219763252702" height="8" fill="#724b3b"/>
             
-              <rect mask="url(#languages-bar)" x="458.3060398656729" y="0" width="1.2676789741009924" height="8" fill="#f1e05a"/>
+              <rect mask="url(#languages-bar)" x="457.92460113226963" y="0" width="1.5349974266598045" height="8" fill="#f1e05a"/>
             
-              <rect mask="url(#languages-bar)" x="459.57371883977396" y="0" width="0.42628116022611434" height="8" fill="#701516"/>
+              <rect mask="url(#languages-bar)" x="459.45959855892943" y="0" width="0.5404014410705096" height="8" fill="#701516"/>
             
           </svg>
         
