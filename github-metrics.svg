@@ -1709,7 +1709,7 @@
         
           <small>
             
-              estimation from 829kb of code in 413 edited files across 178 commits over last 30 days
+              estimation from 783kb of code in 306 edited files across 173 commits over last 28 days
             
           </small>
         
@@ -1720,13 +1720,13 @@
             </mask>
             <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
             
-              <rect mask="url(#languages-bar)" x="0" y="0" width="402.66127087428356" height="8" fill="#3572A5"/>
+              <rect mask="url(#languages-bar)" x="0" y="0" width="449.68669987087253" height="8" fill="#3572A5"/>
             
-              <rect mask="url(#languages-bar)" x="402.66127087428356" y="0" width="46.494639996035744" height="8" fill="#3178c6"/>
+              <rect mask="url(#languages-bar)" x="449.68669987087253" y="0" width="7.728610957387936" height="8" fill="#724b3b"/>
             
-              <rect mask="url(#languages-bar)" x="449.1559108703193" y="0" width="10.762029038172479" height="8" fill="#724b3b"/>
+              <rect mask="url(#languages-bar)" x="457.4153108282605" y="0" width="2.540564471499723" height="8" fill="#3178c6"/>
             
-              <rect mask="url(#languages-bar)" x="459.9179399084918" y="0" width="0.08206009150823408" height="8" fill="#f1e05a"/>
+              <rect mask="url(#languages-bar)" x="459.95587529976024" y="0" width="0.04412470023980815" height="8" fill="#f1e05a"/>
             
           </svg>
         
@@ -1739,13 +1739,13 @@
               </div>
             
               <div class="field center no-wrap language">
-                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#3178c6" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
-                TypeScript
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#724b3b" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
+                Mustache
               </div>
             
               <div class="field center no-wrap language">
-                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#724b3b" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
-                Mustache
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#3178c6" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
+                TypeScript
               </div>
             
               <div class="field center no-wrap language">
