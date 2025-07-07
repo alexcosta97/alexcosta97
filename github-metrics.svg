@@ -1709,7 +1709,7 @@
         
           <small>
             
-              estimation from 67.8kb of code in 26 edited files across 18 commits over last 5 days
+              estimation from 425kb of code in 339 edited files across 22 commits over last 6 days
             
           </small>
         
@@ -1720,7 +1720,13 @@
             </mask>
             <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
             
-              <rect mask="url(#languages-bar)" x="0" y="0" width="460" height="8" fill="#3178c6"/>
+              <rect mask="url(#languages-bar)" x="0" y="0" width="267.26804881635053" height="8" fill="#3178c6"/>
+            
+              <rect mask="url(#languages-bar)" x="267.26804881635053" y="0" width="86.35568298779592" height="8" fill="#4F5D95"/>
+            
+              <rect mask="url(#languages-bar)" x="353.6237318041464" y="0" width="73.50463167181297" height="8" fill="#878787"/>
+            
+              <rect mask="url(#languages-bar)" x="427.12836347595936" y="0" width="32.87163652404058" height="8" fill="#384d54"/>
             
           </svg>
         
@@ -1730,6 +1736,21 @@
               <div class="field center no-wrap language">
                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#3178c6" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
                 TypeScript
+              </div>
+            
+              <div class="field center no-wrap language">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#4F5D95" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
+                PHP
+              </div>
+            
+              <div class="field center no-wrap language">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#878787" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
+                Hack
+              </div>
+            
+              <div class="field center no-wrap language">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#384d54" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
+                Dockerfile
               </div>
             
           </div>
