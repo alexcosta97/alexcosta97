@@ -1709,7 +1709,7 @@
         
           <small>
             
-              estimation from 1.75mb of code in 567 edited files across 58 commits over last 11 days
+              estimation from 2.22mb of code in 867 edited files across 60 commits over last 12 days
             
           </small>
         
@@ -1720,17 +1720,17 @@
             </mask>
             <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
             
-              <rect mask="url(#languages-bar)" x="0" y="0" width="363.84741211040426" height="8" fill="#4F5D95"/>
+              <rect mask="url(#languages-bar)" x="0" y="0" width="398.7732845808935" height="8" fill="#4F5D95"/>
             
-              <rect mask="url(#languages-bar)" x="363.84741211040426" y="0" width="51.045821897884075" height="8" fill="#663399"/>
+              <rect mask="url(#languages-bar)" x="398.7732845808935" y="0" width="30.87345146620668" height="8" fill="#663399"/>
             
-              <rect mask="url(#languages-bar)" x="414.89323400828835" y="0" width="17.28192545562624" height="8" fill="#f1e05a"/>
+              <rect mask="url(#languages-bar)" x="429.6467360471002" y="0" width="10.4524262115759" height="8" fill="#f1e05a"/>
             
-              <rect mask="url(#languages-bar)" x="432.17515946391455" y="0" width="15.326157984156898" height="8" fill="#3178c6"/>
+              <rect mask="url(#languages-bar)" x="440.0991622586761" y="0" width="9.491222903447476" height="8" fill="#878787"/>
             
-              <rect mask="url(#languages-bar)" x="447.5013174480714" y="0" width="10.613698930442958" height="8" fill="#878787"/>
+              <rect mask="url(#languages-bar)" x="449.59038516212354" y="0" width="9.269542091688754" height="8" fill="#3178c6"/>
             
-              <rect mask="url(#languages-bar)" x="458.1150163785144" y="0" width="1.8849836214855757" height="8" fill="#384d54"/>
+              <rect mask="url(#languages-bar)" x="458.8599272538123" y="0" width="1.1400727461877096" height="8" fill="#384d54"/>
             
           </svg>
         
@@ -1753,13 +1753,13 @@
               </div>
             
               <div class="field center no-wrap language">
-                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#3178c6" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
-                TypeScript
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#878787" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
+                Hack
               </div>
             
               <div class="field center no-wrap language">
-                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#878787" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
-                Hack
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#3178c6" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
+                TypeScript
               </div>
             
               <div class="field center no-wrap language">
