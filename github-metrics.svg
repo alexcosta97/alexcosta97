@@ -1709,7 +1709,7 @@
         
           <small>
             
-              estimation from 2.26mb of code in 886 edited files across 64 commits over last 14 days
+              estimation from 2.92mb of code in 961 edited files across 72 commits over last 15 days
             
           </small>
         
@@ -1720,17 +1720,17 @@
             </mask>
             <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
             
-              <rect mask="url(#languages-bar)" x="0" y="0" width="389.5565783509417" height="8" fill="#4F5D95"/>
+              <rect mask="url(#languages-bar)" x="0" y="0" width="347.03830541605237" height="8" fill="#4F5D95"/>
             
-              <rect mask="url(#languages-bar)" x="389.5565783509417" y="0" width="30.156158938418088" height="8" fill="#663399"/>
+              <rect mask="url(#languages-bar)" x="347.03830541605237" y="0" width="53.72951133387249" height="8" fill="#663399"/>
             
-              <rect mask="url(#languages-bar)" x="419.7127372893598" y="0" width="20.64600487156114" height="8" fill="#f1e05a"/>
+              <rect mask="url(#languages-bar)" x="400.76781674992486" y="0" width="41.68313525542676" height="8" fill="#f1e05a"/>
             
-              <rect mask="url(#languages-bar)" x="440.3587421609209" y="0" width="9.473492829639813" height="8" fill="#878787"/>
+              <rect mask="url(#languages-bar)" x="442.4509520053516" y="0" width="8.491046834248008" height="8" fill="#878787"/>
             
-              <rect mask="url(#languages-bar)" x="449.8322349905607" y="0" width="9.054179928968853" height="8" fill="#3178c6"/>
+              <rect mask="url(#languages-bar)" x="450.9419988395996" y="0" width="8.065958667114852" height="8" fill="#3178c6"/>
             
-              <rect mask="url(#languages-bar)" x="458.88641491952956" y="0" width="1.1135850804704195" height="8" fill="#384d54"/>
+              <rect mask="url(#languages-bar)" x="459.0079575067145" y="0" width="0.9920424932855416" height="8" fill="#384d54"/>
             
           </svg>
         
