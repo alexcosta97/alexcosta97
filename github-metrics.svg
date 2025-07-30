@@ -1709,7 +1709,7 @@
         
           <small>
             
-              estimation from 5.80mb of code in 1955 edited files across 159 commits over last 28 days
+              estimation from 10.6mb of code in 2633 edited files across 182 commits over last 29 days
             
           </small>
         
@@ -1720,21 +1720,21 @@
             </mask>
             <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
             
-              <rect mask="url(#languages-bar)" x="0" y="0" width="195.38161887208545" height="8" fill="#4F5D95"/>
+              <rect mask="url(#languages-bar)" x="0" y="0" width="211.55488406786117" height="8" fill="#f1e05a"/>
             
-              <rect mask="url(#languages-bar)" x="195.38161887208545" y="0" width="159.76784722597498" height="8" fill="#f1e05a"/>
+              <rect mask="url(#languages-bar)" x="211.55488406786117" y="0" width="160.81026487438703" height="8" fill="#4F5D95"/>
             
-              <rect mask="url(#languages-bar)" x="355.14946609806043" y="0" width="56.88535164401785" height="8" fill="#663399"/>
+              <rect mask="url(#languages-bar)" x="372.36514894224814" y="0" width="58.26919744171653" height="8" fill="#663399"/>
             
-              <rect mask="url(#languages-bar)" x="412.03481774207825" y="0" width="15.497310081646122" height="8" fill="#3572A5"/>
+              <rect mask="url(#languages-bar)" x="430.63434638396467" y="0" width="9.82213264350669" height="8" fill="#878787"/>
             
-              <rect mask="url(#languages-bar)" x="427.53212782372435" y="0" width="13.47162162006786" height="8" fill="#878787"/>
+              <rect mask="url(#languages-bar)" x="440.4564790274714" y="0" width="8.556258431067592" height="8" fill="#3572A5"/>
             
-              <rect mask="url(#languages-bar)" x="441.00374944379223" y="0" width="13.235996500059214" height="8" fill="#e34c26"/>
+              <rect mask="url(#languages-bar)" x="449.012737458539" y="0" width="7.307758962720795" height="8" fill="#e34c26"/>
             
-              <rect mask="url(#languages-bar)" x="454.23974594385146" y="0" width="5.084054918256146" height="8" fill="#3178c6"/>
+              <rect mask="url(#languages-bar)" x="456.3204964212598" y="0" width="3.3061655901350555" height="8" fill="#3178c6"/>
             
-              <rect mask="url(#languages-bar)" x="459.32380086210753" y="0" width="0.676199137892378" height="8" fill="#384d54"/>
+              <rect mask="url(#languages-bar)" x="459.62666201139484" y="0" width="0.37333798860516415" height="8" fill="#384d54"/>
             
           </svg>
         
@@ -1742,13 +1742,13 @@
           <div class="field center horizontal-wrap fill-width">
             
               <div class="field center no-wrap language">
-                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#4F5D95" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
-                PHP
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#f1e05a" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
+                JavaScript
               </div>
             
               <div class="field center no-wrap language">
-                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#f1e05a" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
-                JavaScript
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#4F5D95" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
+                PHP
               </div>
             
               <div class="field center no-wrap language">
@@ -1757,13 +1757,13 @@
               </div>
             
               <div class="field center no-wrap language">
-                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#3572A5" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
-                Python
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#878787" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
+                Hack
               </div>
             
               <div class="field center no-wrap language">
-                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#878787" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
-                Hack
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#3572A5" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
+                Python
               </div>
             
               <div class="field center no-wrap language">
