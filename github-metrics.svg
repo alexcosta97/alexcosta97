@@ -1709,7 +1709,7 @@
         
           <small>
             
-              estimation from 1.37mb of code in 1225 edited files across 374 commits over last 30 days
+              estimation from 1.39mb of code in 1213 edited files across 370 commits over last 30 days
             
           </small>
         
@@ -1720,21 +1720,21 @@
             </mask>
             <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
             
-              <rect mask="url(#languages-bar)" x="0" y="0" width="89.91126828441949" height="8" fill="#3178c6"/>
+              <rect mask="url(#languages-bar)" x="0" y="0" width="89.58990890052084" height="8" fill="#3178c6"/>
             
-              <rect mask="url(#languages-bar)" x="89.91126828441949" y="0" width="74.65261736893457" height="8" fill="#878787"/>
+              <rect mask="url(#languages-bar)" x="89.58990890052084" y="0" width="67.7828374110326" height="8" fill="#878787"/>
             
-              <rect mask="url(#languages-bar)" x="164.56388565335408" y="0" width="67.97469235425976" height="8" fill="#f1e05a"/>
+              <rect mask="url(#languages-bar)" x="157.37274631155344" y="0" width="65.98387698310239" height="8" fill="#f1e05a"/>
             
-              <rect mask="url(#languages-bar)" x="232.53857800761384" y="0" width="63.6949005198888" height="8" fill="#4F5D95"/>
+              <rect mask="url(#languages-bar)" x="223.35662329465586" y="0" width="63.055392551906884" height="8" fill="#e34c26"/>
             
-              <rect mask="url(#languages-bar)" x="296.2334785275026" y="0" width="63.49797572976813" height="8" fill="#e34c26"/>
+              <rect mask="url(#languages-bar)" x="286.4120158465627" y="0" width="61.34581028461741" height="8" fill="#4F5D95"/>
             
-              <rect mask="url(#languages-bar)" x="359.73145425727074" y="0" width="59.97265954834414" height="8" fill="#3572A5"/>
+              <rect mask="url(#languages-bar)" x="347.75782613118014" y="0" width="59.55464795123974" height="8" fill="#3572A5"/>
             
-              <rect mask="url(#languages-bar)" x="419.70411380561484" y="0" width="29.66798816560277" height="8" fill="#178600"/>
+              <rect mask="url(#languages-bar)" x="407.31247408241984" y="0" width="29.461201219528096" height="8" fill="#178600"/>
             
-              <rect mask="url(#languages-bar)" x="449.37210197121766" y="0" width="10.627898028782326" height="8" fill="#c6538c"/>
+              <rect mask="url(#languages-bar)" x="436.77367530194795" y="0" width="23.226324698052043" height="8" fill="#3178c6"/>
             
           </svg>
         
@@ -1757,13 +1757,13 @@
               </div>
             
               <div class="field center no-wrap language">
-                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#4F5D95" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
-                PHP
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#e34c26" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
+                HTML
               </div>
             
               <div class="field center no-wrap language">
-                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#e34c26" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
-                HTML
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#4F5D95" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
+                PHP
               </div>
             
               <div class="field center no-wrap language">
@@ -1777,8 +1777,8 @@
               </div>
             
               <div class="field center no-wrap language">
-                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#c6538c" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
-                SCSS
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#3178c6" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
+                TSX
               </div>
             
           </div>
